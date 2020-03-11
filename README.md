@@ -25,22 +25,22 @@ All the modders that used their time and considerable skills to develop the mode
   *	Apollo CM (Apollo by DECQ)
   *	Apollo Drogue Docking Port (Apollo by DECQ)
   *	Apollo Drogue Parachute Pack (Apollo by DECQ)
-  * Apollo CM Forward Heat Shield (Apollo by DECQ)
-  * Apollo High Gain Antenna (HGA) (Apollo by DECQ)
+  *	Apollo CM Forward Heat Shield (Apollo by DECQ)
+  *	Apollo High Gain Antenna (HGA) (Apollo by DECQ)
   *	Apollo Launch Escape System (LES) (Apollo by DECQ)
   *	Apollo LES Booster Protection Cover (BPC) (Apollo by DECQ)
   *	Apollo Main Parachute Pack (Apollo by DECQ)
-  * Apollo Service Module RCS Block (Apollo by DECQ)
-  * Apollo Service Module (SM) (Apollo by DECQ)
-  * Apollo Docking Mechanism Probe (Bluedog Design by CobaltWolf)
-  * Apollo Block III+ Command Module (CM) (Apollo by DECQ)
-  * Apollo Command/Service Module Decoupler (Bluedog Design by CobaltWolf)
-  * Apollo Block III Service Engine (LMAE) (Bluedog Design by CobaltWolf)
-  * Apollo Block III High Gain Antenna (Bluedog Design by CobaltWolf)
-  * Apollo Block V High Gain Antenna (Bluedog Design by CobaltWolf)
-  * Apollo Block III+ Mission Module (Bluedog Design by CobaltWolf)
-  * Apollo Block IV Mission Module (Bluedog Design by CobaltWolf)
-  * Apollo Block V Solar Array (Bluedog Design by CobaltWolf)
+  *	Apollo Service Module RCS Block (Apollo by DECQ)
+  *	Apollo Service Module (SM) (Apollo by DECQ)
+  *	Apollo Docking Mechanism Probe (Bluedog Design by CobaltWolf)
+  *	Apollo Block III+ Command Module (CM) (Apollo by DECQ)
+  *	Apollo Command/Service Module Decoupler (Bluedog Design by CobaltWolf)
+  *	Apollo Block III Service Engine (LMAE) (Bluedog Design by CobaltWolf)
+  *	Apollo Block III High Gain Antenna (Bluedog Design by CobaltWolf)
+  *	Apollo Block V High Gain Antenna (Bluedog Design by CobaltWolf)
+  *	Apollo Block III+ Mission Module (Bluedog Design by CobaltWolf)
+  *	Apollo Block IV Mission Module (Bluedog Design by CobaltWolf)
+  *	Apollo Block V Solar Array (Bluedog Design by CobaltWolf)
   
 * Gemini
   * Gemini Agena Target/Docking Adapter (FASA by Frizzank)
@@ -67,7 +67,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Apollo LM Descent Engine (Apollo by DECQ)
   * Apollo Lunar Roving Vehicle (LRV) (Apollo by DECQ)
   
- * Mercury
+* Mercury
   * Mercury-Atlas Adapter (FASA by Frizzank)
   * Mercury-Redstone Adapter (FASA by Frizzank)
   * Mercury Command Pod (FASA by Frizzank)
@@ -79,7 +79,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Mercury Retro Solid Rocket Pack (FASA by Frizzank)
   * Mercury Retro Strap & Decoupler (FASA by Frizzank)
   
- * Vostok/Voskhod
+* Vostok/Voskhod
   * Voskhod Airlock (Soviet Spacecraft by RaiderNick)
   * Voskhod Descent Module (Soviet Spacecraft by RaiderNick)
   * Voskhod Retro Package (Soviet Spacecraft by RaiderNick)
