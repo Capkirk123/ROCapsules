@@ -1,0 +1,2 @@
+sun catcher is named sunCatcher
+animation is called Solar

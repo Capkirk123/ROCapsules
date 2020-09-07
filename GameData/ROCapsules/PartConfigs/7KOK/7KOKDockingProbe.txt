@@ -1,0 +1,2 @@
+probe animation is named Probe
+docking node transform is named dockingNode

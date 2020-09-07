@@ -1,0 +1,3 @@
+antenna animation is named Antenna
+rcs transforms are RCS
+the three engines are thrustTransform
